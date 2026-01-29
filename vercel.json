@@ -1,3 +1,5 @@
 {
-  "root": "modernize-website"
+  "buildCommand": "cd modernize-website && npm run build",
+  "outputDirectory": "modernize-website/.next",
+  "framework": "nextjs"
 }
