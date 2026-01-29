@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd modernize-website && pnpm install && pnpm build",
+  "outputDirectory": "modernize-website/.next",
+  "installCommand": "cd modernize-website && pnpm install"
+}
